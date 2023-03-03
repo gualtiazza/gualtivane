@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Gualtiero &amp; Vanessa</title>
-    <link>https://gualtiazza.github.io/when_where/</link>
-      <atom:link href="https://gualtiazza.github.io/when_where/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gualtiazza.github.io/gualtivane/when_where/</link>
+      <atom:link href="https://gualtiazza.github.io/gualtivane/when_where/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://gualtiazza.github.io/media/icon_hu1d080c407e895ad16c5b8feb3b808641_1047_512x512_fill_lanczos_center_3.png</url>
+      <url>https://gualtiazza.github.io/gualtivane/media/icon_hu1d080c407e895ad16c5b8feb3b808641_1047_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://gualtiazza.github.io/when_where/</link>
+      <link>https://gualtiazza.github.io/gualtivane/when_where/</link>
     </image>
     
   </channel>
